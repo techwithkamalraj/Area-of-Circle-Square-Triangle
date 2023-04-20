@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 355px;
+    border: 2px solid white;
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
